@@ -6,6 +6,7 @@ This project involves designing, implementing, and simulating a synchronous FIFO
 - [Synchronous FIFO](#synchronous-fifo)
 - [Replication on EDA Playground](#replication-on-eda-playground)
 - [Features](#features)
+- [Waveforms](#waveforms)
 - [Contact](#contact)
 
 ## Replication on EDA Playground
@@ -27,7 +28,7 @@ This project involves designing, implementing, and simulating a synchronous FIFO
 
 ## Waveforms
 
-![Screenshot](./sync_fifo_waveform)
+![Screenshot](./sync_fifo_waveform.png)
 
 ## Contact
 Your Name - [hardikupreti1@gmail.com](mailto:hardikupreti1@gmail.com)
