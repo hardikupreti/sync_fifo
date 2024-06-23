@@ -5,7 +5,7 @@ This project involves designing, implementing, and simulating a synchronous FIFO
 ## Table of Contents
 - [Synchronous FIFO](#synchronous-fifo)
 - [Replication on EDA Playground](#replication-on-eda-playground)
-- [Usage](#usage)
+- [Features](#features)
 - [Contact](#contact)
 
 ## Replication on EDA Playground
@@ -18,7 +18,7 @@ This project involves designing, implementing, and simulating a synchronous FIFO
 3. Check Open EPWave before running
 4. Save and Run the project:
 
-![Screenshot]([hardikupreti/sync_fifo/blob/main/sync_FIFO_EDAPLAYGROUND.png])
+![Screenshot](./sync_FIFO_EDAPLAYGROUND.png)
 
 ## Features
 - **Configurable Depth and Width**: The depth (number of storage locations) and width (bit-width of each data item) of the FIFO can be configured.
