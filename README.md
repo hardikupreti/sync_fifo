@@ -25,6 +25,9 @@ This project involves designing, implementing, and simulating a synchronous FIFO
 - **Synchronous Operation**: Both read and write operations are synchronized to the same clock signal.
 - **Testbench Included**: A testbench is included which writes values into the buffer and starts reading after some delay.
 
+## Waveforms
+
+![Screenshot](./sync_fifo_waveform)
 
 ## Contact
 Your Name - [hardikupreti1@gmail.com](mailto:hardikupreti1@gmail.com)
